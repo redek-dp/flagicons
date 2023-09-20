@@ -9,10 +9,10 @@ import "/node_modules/flag-icons/css/flag-icons.min.css";
 or use CDN:
 
 ```html
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"
-/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/redek-dp/flagicons@main/css/flag-icons.css" />
+```
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/redek-dp/flagicons@main/css/flag-icons.min.css" />
 ```
 
 ```html

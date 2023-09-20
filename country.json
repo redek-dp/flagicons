@@ -178,7 +178,7 @@
     "name": "Bangladesh"
   },
   {
-    "capital": "Bridgetown",
+    "capital": "BRidgetown",
     "code": "bb",
     "continent": "North America",
     "flag_1x1": "flags/1x1/bb.svg",
@@ -203,7 +203,7 @@
     "name": "Belarus"
   },
   {
-    "capital": "Brussels",
+    "capital": "BRussels",
     "code": "be",
     "continent": "Europe",
     "flag_1x1": "flags/1x1/be.svg",
@@ -291,13 +291,13 @@
     "name": "Bouvet Island"
   },
   {
-    "capital": "Brasília",
-    "code": "br",
+    "capital": "BRasília",
+    "code": "BR",
     "continent": "South America",
-    "flag_1x1": "flags/1x1/br.svg",
-    "flag_4x3": "flags/4x3/br.svg",
+    "flag_1x1": "flags/1x1/BR.svg",
+    "flag_4x3": "flags/4x3/BR.svg",
     "iso": true,
-    "name": "Brazil"
+    "name": "BRazil"
   },
   {
     "capital": "Diego Garcia",
@@ -306,7 +306,7 @@
     "flag_1x1": "flags/1x1/io.svg",
     "flag_4x3": "flags/4x3/io.svg",
     "iso": true,
-    "name": "British Indian Ocean Territory"
+    "name": "BRitish Indian Ocean Territory"
   },
   {
     "capital": "Bandar Seri Begawan",
@@ -315,7 +315,7 @@
     "flag_1x1": "flags/1x1/bn.svg",
     "flag_4x3": "flags/4x3/bn.svg",
     "iso": true,
-    "name": "Brunei Darussalam"
+    "name": "BRunei Darussalam"
   },
   {
     "capital": "Sofia",
@@ -790,7 +790,7 @@
     "name": "French Southern Territories"
   },
   {
-    "capital": "Libreville",
+    "capital": "LiBReville",
     "code": "ga",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/ga.svg",
@@ -842,13 +842,13 @@
     "name": "Ghana"
   },
   {
-    "capital": "Gibraltar",
+    "capital": "GiBRaltar",
     "code": "gi",
     "continent": "Europe",
     "flag_1x1": "flags/1x1/gi.svg",
     "flag_4x3": "flags/4x3/gi.svg",
     "iso": true,
-    "name": "Gibraltar"
+    "name": "GiBRaltar"
   },
   {
     "capital": "Athens",
@@ -1405,7 +1405,7 @@
     "name": "Montenegro"
   },
   {
-    "capital": "Little Bay, Brades, Plymouth",
+    "capital": "Little Bay, BRades, Plymouth",
     "code": "ms",
     "continent": "North America",
     "flag_1x1": "flags/1x1/ms.svg",
@@ -1702,7 +1702,7 @@
     "name": "Qatar"
   },
   {
-    "capital": "Brazzaville",
+    "capital": "BRazzaville",
     "code": "cg",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/cg.svg",
@@ -1909,7 +1909,7 @@
     "name": "Sint Maarten"
   },
   {
-    "capital": "Bratislava",
+    "capital": "BRatislava",
     "code": "sk",
     "continent": "Europe",
     "flag_1x1": "flags/1x1/sk.svg",
@@ -2314,7 +2314,7 @@
     "flag_1x1": "flags/1x1/vg.svg",
     "flag_4x3": "flags/4x3/vg.svg",
     "iso": true,
-    "name": "Virgin Islands (British)"
+    "name": "Virgin Islands (BRitish)"
   },
   {
     "capital": "Charlotte Amalie",

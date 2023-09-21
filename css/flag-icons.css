@@ -18,6 +18,9 @@
 .fi.fis {
   width: 1em;
 }
+.fi .fi-{
+  background-color: #6b62b5b8;
+}
 .fi-xx {
   background-image: url(../flags/4x3/xx.svg);
 }

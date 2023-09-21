@@ -3,8 +3,8 @@
     "capital": "Kabul",
     "code": "af",
     "continent": "Asia",
-    "flag_1x1": "flags/1x1/af.svg",
-    "flag_4x3": "flags/4x3/af.svg",
+    "flag_1x1": "flags/1x1/AF.svg",
+    "flag_4x3": "flags/4x3/AF.svg",
     "iso": true,
     "name": "Afghanistan"
   },
@@ -48,8 +48,8 @@
     "capital": "Andorra la Vella",
     "code": "ad",
     "continent": "Europe",
-    "flag_1x1": "flags/1x1/ad.svg",
-    "flag_4x3": "flags/4x3/ad.svg",
+    "flag_1x1": "flags/1x1/AD.svg",
+    "flag_4x3": "flags/4x3/AD.svg",
     "iso": true,
     "name": "Andorra"
   },
@@ -118,8 +118,8 @@
     "capital": "Georgetown",
     "code": "ac",
     "continent": "Africa",
-    "flag_1x1": "flags/1x1/ac.svg",
-    "flag_4x3": "flags/4x3/ac.svg",
+    "flag_1x1": "flags/1x1/AC.svg",
+    "flag_4x3": "flags/4x3/AC.svg",
     "iso": false,
     "name": "Ascension Island"
   },
@@ -615,8 +615,8 @@
   },
   {
     "code": "eac",
-    "flag_1x1": "flags/1x1/eac.svg",
-    "flag_4x3": "flags/4x3/eac.svg",
+    "flag_1x1": "flags/1x1/eAC.svg",
+    "flag_4x3": "flags/4x3/eAC.svg",
     "iso": false,
     "name": "East African Community"
   },
@@ -2216,8 +2216,8 @@
     "capital": "Abu Dhabi",
     "code": "ae",
     "continent": "Asia",
-    "flag_1x1": "flags/1x1/ae.svg",
-    "flag_4x3": "flags/4x3/ae.svg",
+    "flag_1x1": "flags/1x1/AE.svg",
+    "flag_4x3": "flags/4x3/AE.svg",
     "iso": true,
     "name": "United Arab Emirates"
   },
